@@ -1,0 +1,2 @@
+-- v0.7.1 - Correcciones de UI/reportes.
+-- No requiere cambios obligatorios de estructura sobre v0.7.0.

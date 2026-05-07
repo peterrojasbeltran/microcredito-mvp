@@ -1,0 +1,2 @@
+-- v0.7.3 no requiere cambios estructurales en Supabase.
+-- Corrige lógica de auditoría en frontend: capacityWarning siempre se guarda como boolean true/false.

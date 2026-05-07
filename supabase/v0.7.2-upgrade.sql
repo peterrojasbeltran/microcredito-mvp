@@ -1,0 +1,2 @@
+-- v0.7.2 no requiere cambios obligatorios en Supabase.
+-- Se mantienen las columnas creadas en v0.7.0.

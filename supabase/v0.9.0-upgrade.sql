@@ -1,0 +1,3 @@
+-- v0.9.0 UX final
+-- No requiere cambios estructurales de base de datos.
+-- Mantiene intactos Auth, RLS, lógica financiera, firma, desembolso y pagos.
